@@ -21,9 +21,6 @@ I train basketball almost every day
 
 I want to move to the US in the future
 
-My goal is to become successful by building, creating, and learning
-
-Hobbies: gym, coding, and making cool stuff
 Hobbies: gym, coding, and making cool stuff
 <!--
 **JelleSchrijvers-PXL/JelleSchrijvers-PXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
