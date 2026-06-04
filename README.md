@@ -1,38 +1,41 @@
-## Hi there 👋
+# Hi there 👋
 
-I’m Jelle, a student programmer and basketball player based in Belgium.
+I'm Jelle, a Software Development student at PXL in Belgium.
 
-If an idea hits me, there’s a good chance I’ll prototype it the same day.
-I’m focused on improving my programming skills and turning ideas into real projects.
+I'm passionate about programming and continuously improving my skills through coursework, personal projects, and hands-on experience. I enjoy solving problems, building applications, and learning new technologies.
 
-My main tech stack includes C#, SQL, HTML, and CSS, and I’m constantly expanding my skills.
-My favorite tools are VS Code and WebStorm.
+## Tech Stack
 
-I’m currently leveling up, building new projects, and experimenting with whatever inspires me.
+### Languages
 
-You can find some of my favorite projects pinned below — and there are plenty more in the works.
+* C#
+* Python
+* SQL
+* JavaScript
 
-My dream is to become successful through building, creating, and learning
-If you want to see what I’m building next, stick around.
+### Frontend
 
-Fun Facts:
+* HTML
+* CSS
+* Vue.js
 
-I train basketball almost every day
+### Database
 
-I want to move to the US in the future
+* Microsoft SQL Server
 
-Hobbies: gym, coding, and making cool stuff
-<!--
-**JelleSchrijvers-PXL/JelleSchrijvers-PXL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools
 
-Here are some ideas to get you started:
+* Visual Studio Community
+* Visual Studio Code
+* WebStorm
+* SQL Server Management Studio (SSMS)
+* Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+
+* Studying Software Development at PXL
+* Building academic and personal projects
+* Learning modern web development with Vue.js
+* Expanding my knowledge of software engineering and databases
+
+Feel free to explore my repositories and follow my progress.
